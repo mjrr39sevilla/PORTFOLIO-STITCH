@@ -1,0 +1,6 @@
+{
+  "name": "Portfolio Personal",
+  "description": "Portfolio personal profesional responsive creado con HTML5, Tailwind CSS y JavaScript vanilla.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
