@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="./images/banner-portfolio.png" />
+<img width="1200" height="475" alt="GHBanner" src="https://raw.githubusercontent.com/mjrr39sevilla/PORTFOLIO-STITCH/blob/main/src/assets/images/banner-portfolio.png" />
 </div>
 
 # Portfolio Profesional - Desarrolladora Web Full Stack
