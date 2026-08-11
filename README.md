@@ -1,20 +1,12 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+<img width="1200" height="475" alt="GHBanner" src="./src/images/banner-portfolio.png" />
 </div>
 
 # Portfolio Profesional - Desarrolladora Web Full Stack
 
 Un portfolio web moderno, responsivo y de alto rendimiento diseñado para destacar habilidades técnicas, formación académica y proyectos destacados en el ámbito del desarrollo de software.
 
-# Ejecuta y despliegue en AI Studio app
-
-Esto contiene todo lo que necesitas para ejecutar la aplicación localmente.
-
-Visualiza aplicación en AI Studio: https://ai.studio/apps/40996f52-45a1-4d6a-85fc-6326ab3b4c1d
-
-## Gestionado Localmente
-
-## Prerequisitos 
+# Prerequisitos
 
 Stitch, GitHub y GitHub Pages.
 
